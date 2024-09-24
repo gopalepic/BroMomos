@@ -20,7 +20,6 @@ const Body = () => {
         {
           url: image3,
         },
-    
         {
           url: image4,
         },
