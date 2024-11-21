@@ -9,7 +9,7 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 
 const Footer = () => {
   return (
-    <div className='bg-black w-screen w-screen grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 text-white gap-4'>
+    <div className='bg-black w-screen  grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 text-white gap-4'>
       <div>AKASH SHRESHTHA
       <div>
         I Know i am epic but need gopal to be get advance

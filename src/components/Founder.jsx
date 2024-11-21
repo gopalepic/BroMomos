@@ -6,7 +6,7 @@ const Founder = () => {
     <div className=' mx-[10vw] '>
       
 
-     <h1 className='text-center text-3xl'> JISKA PET NAHI, <form> VO SETH NAHI</form> </h1>
+     <h1 className='text-center text-3xl'> sdfsdf <form> sdfsdf</form> </h1>
       <div className=' m-[2vw] flex-col justify-center mx-[10vw] md:flex md:flex-row gap-4'>
         <div className='flex justify-center'>
           <img src={image} className='rounded-full w-full' />

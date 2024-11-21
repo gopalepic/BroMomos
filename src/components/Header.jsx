@@ -15,7 +15,7 @@ const Header = () => {
   return (
    
     <div className='flex items-center justify-between p-1 bg-[#0d0d0d] px-[3vw]'>
-        <div className='w-[10vw] cursor-pointer '> <img src={Bromomos} className='rounded-full' onClick={()=> navigate("/")} alt="logo"  />  </div>
+        <div className='w-[15vw] cursor-pointer '> <img src={Bromomos} className='rounded-full' onClick={()=> navigate("/")} alt="logo"  />  </div>
          <div className='mr-[9%] '> 
            <div className='hidden lg:block'>
             <ul className='flex gap-12 font-semibold text-white'>
